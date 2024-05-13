@@ -32,9 +32,9 @@ const Footer = () => (
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
-        <p>Crechterwoord K12 182 DK Alknjkcb</p>
-        <p>085-132567</p>
-        <p>info@payme.net</p>
+        <p>Necochea, Buenos Aires, Argentina</p>
+        <a href="https://github.com/LucasBernaola">Github</a>
+        <p>bernadev7@gmail.com</p>
       </div>
     </div>
 
