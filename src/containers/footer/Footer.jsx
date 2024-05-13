@@ -33,7 +33,8 @@ const Footer = () => (
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
         <p>Necochea, Buenos Aires, Argentina</p>
-        <a href="https://github.com/LucasBernaola">Github</a>
+        <a href="https://github.com/LucasBernaola"><p>Github</p></a>
+        <a href="https://www.linkedin.com/in/lucas-bernaola/"><p>LinkedIn</p></a>
         <p>bernadev7@gmail.com</p>
       </div>
     </div>
